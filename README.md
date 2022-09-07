@@ -1,2 +1,2 @@
 # ActionFirst
-ActionFirst s the first repo created
+ActionFirst is the first repo created
